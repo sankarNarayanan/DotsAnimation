@@ -13,5 +13,9 @@ Inputs are
 2. Color of the dots
 3. Color to be changed during animation.
 
+Demo:
+
+https://github.com/sankarNarayanan/DotsAnimation/blob/master/DemoVideo/DotsDemo.mov
+
 This variable dots contains the animated view component add it to any view as a subview in your application.
 
