@@ -15,6 +15,8 @@ Inputs are
 
 Demo:
 
+![Demo Video](DemoVideo/DotsDemo.mov)
+
 https://github.com/sankarNarayanan/DotsAnimation/blob/master/DemoVideo/DotsDemo.mov
 
 This variable dots contains the animated view component add it to any view as a subview in your application.
