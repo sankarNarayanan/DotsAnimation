@@ -15,7 +15,7 @@ Inputs are
 
 Demo:
 
-![Demo](https://github.com/sankarNarayanan/DotsAnimation/blob/master/DemoVideo/DotsDemo.mov)
+![Demo](https://youtu.be/SRd8TjrtqMQ)
 
 https://github.com/sankarNarayanan/DotsAnimation/blob/master/DemoVideo/DotsDemo.mov
 
