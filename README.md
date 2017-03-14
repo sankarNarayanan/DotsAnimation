@@ -15,6 +15,8 @@ Inputs are
 
 Demo:
 
+![Demo](giphy.gif)
+
 [![Demo](https://github.com/sankarNarayanan/DotsAnimation/blob/master/DemoVideo/DotsDemo.mov)](https://youtu.be/SRd8TjrtqMQ)
 
 This variable dots contains the animated view component add it to any view as a subview in your application.
